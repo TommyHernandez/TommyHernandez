@@ -41,7 +41,7 @@ This site is built with Next.js 16, React 19, TypeScript and Tailwind 4. It has 
 
 - 🌐 Website: [pedrotomas.dev](https://pedrotomas.dev)
 - ✉️ Email: [hello@pedrotomas.dev](mailto:hello@pedrotomas.dev)
-- 💼 LinkedIn: [in/pedrothdc](https://www.li
+- 💼 LinkedIn: [in/pedrothdc](https://www.linkedin.com/in/pedrothdc/)
 
 I'm open to talking about frontend leadershiing problems at the intersection of web andsecurity.
 
